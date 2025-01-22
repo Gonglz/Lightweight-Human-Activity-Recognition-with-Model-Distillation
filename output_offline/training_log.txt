@@ -1,0 +1,7 @@
+Data loaded:
+X_train: (69960, 100, 53), y_train: (69960, 9)
+X_test: (17496, 100, 53), y_test: (17496, 9)
+Model saved at: output_offline\student_model_regularized.h5
+Classification report saved at: output_offline\classification_report.txt
+Confusion matrix saved at: output_offline\confusion_matrix.png
+Training curves saved at: output_offline\training_curves.png

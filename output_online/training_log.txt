@@ -1,0 +1,47 @@
+Data Shapes:
+X_train: (69960, 100, 53), y_train: (69960, 9)
+X_test: (17496, 100, 53), y_test: (17496, 9)
+
+Epoch 1/10
+Training Loss: 0.2540, Training Accuracy: 0.8337
+Validation Loss: 0.0881, Validation Accuracy: 0.9722
+
+Epoch 2/10
+Training Loss: 0.1119, Training Accuracy: 0.9387
+Validation Loss: 0.0907, Validation Accuracy: 0.9774
+
+Epoch 3/10
+Training Loss: 0.0704, Training Accuracy: 0.9651
+Validation Loss: 0.0406, Validation Accuracy: 0.9879
+
+Epoch 4/10
+Training Loss: 0.0689, Training Accuracy: 0.9652
+Validation Loss: 0.0793, Validation Accuracy: 0.9817
+
+Epoch 5/10
+Training Loss: 0.0825, Training Accuracy: 0.9576
+Validation Loss: 0.1439, Validation Accuracy: 0.9726
+
+Epoch 6/10
+Training Loss: 0.0665, Training Accuracy: 0.9669
+Validation Loss: 0.0499, Validation Accuracy: 0.9855
+
+Epoch 7/10
+Training Loss: 0.0491, Training Accuracy: 0.9777
+Validation Loss: 0.1331, Validation Accuracy: 0.9727
+
+Epoch 8/10
+Training Loss: 0.0392, Training Accuracy: 0.9820
+Validation Loss: 0.0422, Validation Accuracy: 0.9889
+
+Epoch 9/10
+Training Loss: 0.0402, Training Accuracy: 0.9807
+Validation Loss: 0.0384, Validation Accuracy: 0.9885
+
+Epoch 10/10
+Training Loss: 0.0343, Training Accuracy: 0.9839
+Validation Loss: 0.0323, Validation Accuracy: 0.9908
+Student model saved to: output_online\student_model_online.h5
+Classification report saved to: output_online\classification_report.txt
+Confusion matrix saved to: output_online\confusion_matrix.png
+Training and validation curves saved to: output_online\training_curves.png
