@@ -10,6 +10,7 @@ This project focuses on human activity recognition using time-series data from w
 - [Environment](#environment)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
+- [License](#License)
 
 ## Project Overview
 This project implements knowledge distillation to build a lightweight student model for human activity recognition (HAR). The teacher model is first trained on the full dataset, and the student model is trained using the soft labels provided by the teacher. This approach reduces computational overhead, making it suitable for edge devices.
