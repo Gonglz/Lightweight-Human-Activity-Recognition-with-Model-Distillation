@@ -116,3 +116,8 @@ To make a good performance, 30-epoches is a good choice.
 ## Acknowledgments
 
 We acknowledge the contributors of the [PAMAP2](https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring) and [MHEALTH](https://archive.ics.uci.edu/dataset/319/mhealth+dataset) datasets. These datasets were critical for the success of this project.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
